@@ -8,7 +8,6 @@ Este site foi desenvolvido como parte do meu aprendizado em desenvolvimento web.
 
 - **Especificações do Computador:** Detalhes sobre o processador, placa de vídeo, RAM e armazenamento.
 - **Periféricos:** Descrições dos periféricos que utilizo, como teclado, mouse, headset e monitor.
-- 
 ## Como Foi Feito
 
 O site foi construído utilizando HTML e CSS para criar a estrutura e o design. Foi uma jornada de aprendizado empolgante e desafiadora, que me permitiu explorar o mundo do desenvolvimento web.
